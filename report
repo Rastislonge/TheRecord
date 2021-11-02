@@ -1,0 +1,154 @@
+Results for Nmap:
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Results for Dirsearch:
+
+400   155B   http://therecord.media:80/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+403    16B   http://therecord.media:80/..;/
+403    16B   http://therecord.media:80/%2e%2e;/test
+429    16B   http://therecord.media:80/.nyc_output
+429    16B   http://therecord.medi429    16B   http://the429    16B   http://therecord.media:80/.psqlrc
+429    16B   http://therecord.media:80/.pry_history
+429    16B   http://therecord.media:80/.rakeTasks
+429    16B   http://therecord.media:80/.tm_properties
+4429    16B   http://therecord.media:80/ReadMe
+429    16429    16B   http://therecord.media:80/.tconn/
+4429    16B   http://therecord.media:80/WEB-INF/config/security.xml
+429    16B   http://therecord.media:80/WEB-INF/jax-ws-catalog.xml
+429  429    16B   http://therecord.media:80/.svn/text-base/index.php.svn-base
+429    16B   http://therecord.media:80/.tags
+429    16B   http://therecord.media:80/1admin
+429    16B   http://therecord.media:80/85
+429    16B   http://therecord.media:80/Db.properties
+429    16B   http://therecord.media:80/92
+429    16B   http://therecord.media:80/9
+429    16B   http://therecord.media:80/DocProject/Help/Html2
+429    16B   http://therecord.media:80/ExportedObj/
+429    16B   http://therecord.media:80/Changelog.html
+429    16B   http://therecord.media:80/WEB-INF/classes/default-theme.properties
+429    16B   http://therecord.media:80/WEB-INF/classes/demo.xml
+429    16B   http://therecord.media:80/WEB-INF/applicationContext.xml
+429    16B   http://therecord.media:80/WEB-INF/restlet-servlet.xml
+429    16B   http://therecord.media:80/_admin
+429    16B   http://therecord.media:80/WEB-INF/spring-dispatcher-servlet.xml
+429    16B   http://therecord.media:80/WEB-INF/web2.xml
+429    16B   http://therecord.media:80/_www
+429    16B   http://therecord.media:80/WebService
+429    16B   http://therecord.media:80/_vti_txt/
+429    16B   http://therecord.media:80/aboutus.php
+429    16B   http://therecord.media:80/admin/controlpanel
+429    16B   http://therecord.media:80/access_db
+429    16B   http://therecord.media:80/admin/file.php
+429    16B   http://therecord.media:80/accessories
+429    16B   http://therecord.media:80/admin.mdb
+429    16B   http://therecord.media:80/admin/logs/access-log
+429    16B   http://therecord.media:80/actuator/metrics
+429    16B   http://therecord.media:80/admin/access_log
+429    16B   http://therecord.media:80/actuator/refresh
+429    16B   http://therecord.media:80/admin_info.php
+429    16B   http://therecord.media:80/admin/pol_log.txt
+429    16B   http://therecord.media:80/admin.do
+429    16B   http://therecord.media:80/admin/sxd/
+429    16B   http://therecord.media:80/admin_down.php
+429    16B   http://therecord.media:80/admin_login/
+429    16B   http://therecord.media:80/adminitem/
+429    16B   http://therecord.media:80/admin_assist4.p429429    16B   http://therecord.media:80/admin_template.php
+429    16B   http://therecord.media:80/admin_user.php
+429    16B   http://therecord.media:80/admin_update.php
+429    16B   http://429    16B   http://therecord.media:80/cgi-bin/htimage.exe?2,2
+429    16B   http://therecord.media:80/clients
+301     0B   http://therecord.media:80/examples/jsp/%252e%252e/%252e%252e/manager/html/    -> REDIRECTS TO: https://therecord.media/examples/jsp/%252e%252e/%252e%252e/manager/html/
+429    16B   http://therecord.media:80/dashboard/howto.html
+429    16B   http://therecord.media:80/db/websql/
+429    16B   http://therecord.media:80/devdata.db
+429    16B   http://therecord.media:80/database.csv
+429    16B   http://therecord.media:80/data.tsv
+429    16B   http://therecord.media:80/database
+429    16B   http://therecord.media:80/discus_admin
+429    16B   http://therecord.media:80/ext/Makefile
+429    16B   http://therecord.media:80/education
+429    16B   http://therecord.media:80/freemail
+429    16B   http://therecord.media:80/html/
+429    16B   http://therecord.media:80/hs_err_pid.log
+429    16B   http://therecord.media:80/images_admin
+429    16B   http://therecord.media:80/html.php
+429    16B   http://therecord.media:80/iissamples/sdk/asp/docs/codebrws.asp
+429    16B   http://therecord.media:80/html.tar.gz
+429    16B   http://therecord.media:80/ivtejb
+429    16B   http://therecord.media:80/id_rsa.pub
+429    16B   http://therecord.media:80/iisadmpwd/aexp2b.htr
+429    16B   http://therecord.media:80/iiasdmpwd/
+429    16B   http://therecord.media:80/iiop/ClientClose
+429    16B 429    16B   http://therecord.media:80/db429   429    16B   http://therecord.media:80/expir429    16B   http://therecord.media:80/l-admin
+429    16B   http://therecord.media:80/jboss/server/all/log/
+429    16B   http://therecord.media:80/lilo.conf
+429    16B   http://therecord.media:80/known_tokens.csv
+429    16B   http://therecord.media:80/learn/ruubikcms/ruubikcms/cms/login/form.php
+429    16B   http://ther429    16B   http://therecord.media:80/iissamples/exair/howitworks/Codebrws.asp
+429    16B   http://therecord.media:80/iisadmpwd/anot3.htr
+429    16B   http://therecord.media:80/iishelp/
+429    16B   http://therecord.media:80/lang/web.config
+429    16B   http://therecord.media:80/lbadmin
+429    16B   http://therecord.media:80/latest
+429    16B   http://therecord.media:80/l.php
+429    16B   http://therecord.media:80/painel/
+429    16B   http://therecord.media:80/osticket
+429    16B   http://therecord.media:80/phpMyAdmin-2.10.0/
+429    16B   http://therecord.media:80/pgadmin.log
+429    16B   http://therecord.media:80/pgadmin
+429    16B   http://therecord.media:80/patient/register.do
+429    16B   http://therecord.media:80/phpMyAdmin-2.6.4-pl4/
+429    16B   http://therecord.media:80/phpMyAdmin-2.8.0.3/
+429    16B   http://therecord.media:80/phpstudy.php
+429    16B   http://therecord.media:80/phpMyAdmin-2.6.4/
+429    16B   http://therecord.media:80/radio
+429    16B   http://therecord.media:80/quickadmin
+429    16B   http://therecord.media:80/propel.ini
+429    16B   http://therecord.media:80/ru
+429    16B   http://therecord.media:80/show_image_NpAdvSideFea.php?cache=false&cat=1&filename=
+429    16B   http://therecord.media:80/survey
+429    16B   http://therecord.media:80/sql/sqladmin/
+429    16B   http://therecord.media:80/super
+429    16B   http://therecord.media:80/superman/
+429    16B   http://therecord.media:80/superuser/
+429    16B   http://therecord.media:80/superuser
+429    16B   http://therecord.media:80/text
+429    1429    16B   http://therecord.media:80/webmaster
+429    16B   http://therecord.media:80/wp-content/plugins/akismet/akismet.php
+429    16B   http://therecord.media:80/wp-json/wp/v2/users/
+429    16B   http://therecord.media:80/wp-content/plugins/google-sitemap-generator/sitemap-core.php
+429    16B   http://therecord.media:80/www-error.log
+429    16B   http://therecord.media:80/wp-login/
+d.media:80/text-base/etc/passwd
+Results for crt.sh:
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+*.therecord.media
+therecord.media
+*.therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+therecord.media
+*.therecord.media
+therecord.media
+*.therecord.media
+therecord.media
+*.therecord.media
+therecord.media
+therecord.media
+therecord.media
